@@ -31,12 +31,12 @@ const questions = [
         message: "What needs to be installed?",
         default:"npm i"
       },{
-        {
+        
             type: "input",
             name: "table of contents",
             message: "what's your table of contents?",
             
-          },{
+          },
 ];
 
 // function to write README file
